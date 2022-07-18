@@ -4,7 +4,7 @@ package microservice
 
 import (
 	"github.com/cloudwego/kitex/server"
-	"kitex-proto/v1/kitex_gen/MicroService"
+	"kitex-proto/kitex_gen/MicroService"
 )
 
 // NewInvoker creates a server.Invoker with the given handler and options.
