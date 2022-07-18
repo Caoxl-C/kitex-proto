@@ -3,7 +3,7 @@ package microservice
 
 import (
 	"github.com/cloudwego/kitex/server"
-	"kitex-proto/kitex_gen/MicroService"
+	"github.com/kitex-proto/kitex_gen/MicroService"
 )
 
 // NewServer creates a server.Server with the given handler and options.

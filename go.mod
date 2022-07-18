@@ -1,4 +1,4 @@
-module kitex-proto
+module github.com/kitex-proto
 
 go 1.18
 
