@@ -1,4 +1,4 @@
-module github.com/kitex-proto
+module github.com/caoxl-c/kitex-proto
 
 go 1.18
 

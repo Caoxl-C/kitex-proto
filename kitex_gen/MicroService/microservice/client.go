@@ -4,9 +4,9 @@ package microservice
 
 import (
 	"context"
+	"github.com/caoxl-c/kitex-proto/kitex_gen/MicroService"
 	"github.com/cloudwego/kitex/client"
 	"github.com/cloudwego/kitex/client/callopt"
-	"github.com/kitex-proto/kitex_gen/MicroService"
 )
 
 // Client is designed to provide IDL-compatible methods with call-option parameter for kitex framework.

@@ -5,10 +5,10 @@ package microservice
 import (
 	"context"
 	"fmt"
+	"github.com/caoxl-c/kitex-proto/kitex_gen/MicroService"
 	"github.com/cloudwego/kitex/client"
 	kitex "github.com/cloudwego/kitex/pkg/serviceinfo"
 	"github.com/cloudwego/kitex/pkg/streaming"
-	"github.com/kitex-proto/kitex_gen/MicroService"
 	"google.golang.org/protobuf/proto"
 )
 
